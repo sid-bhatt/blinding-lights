@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    text-align: center;
+}
+.background{
+   background-color: black; 
+   color: white;
+   margin: auto;
+   text-align: center;
+   margin-top: 200px;
+   padding: 15px 20px;
+   border: black 1px solid;
+   border-radius: 10px;
+   width: 40%;
+}
+
+#btn {
+    margin: 20px;
+}
